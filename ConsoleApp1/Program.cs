@@ -14,6 +14,7 @@ namespace ConsoleApp1
             Console.WriteLine("HAI HAI HAI");
             Console.WriteLine("4th commit");
             Console.WriteLine("5th commit");
+            Console.WriteLine("My branch commit");
         }
     }
 }
